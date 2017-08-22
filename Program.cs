@@ -6,7 +6,9 @@ namespace Test
     {
         static void Main(string[] args)
         {
-            
+            Calc.Add(1,2);
+            Console.WriteLine(DateTime.Now);
+            Console.ReadKey();
         }
     }
 
