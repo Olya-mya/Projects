@@ -1,0 +1,8 @@
+/home/olya/Test/bin/Debug/netcoreapp1.1/Test.deps.json
+/home/olya/Test/bin/Debug/netcoreapp1.1/Test.runtimeconfig.json
+/home/olya/Test/bin/Debug/netcoreapp1.1/Test.runtimeconfig.dev.json
+/home/olya/Test/bin/Debug/netcoreapp1.1/Test.dll
+/home/olya/Test/bin/Debug/netcoreapp1.1/Test.pdb
+/home/olya/Test/obj/Debug/netcoreapp1.1/Test.AssemblyInfo.cs
+/home/olya/Test/obj/Debug/netcoreapp1.1/Test.dll
+/home/olya/Test/obj/Debug/netcoreapp1.1/Test.pdb
