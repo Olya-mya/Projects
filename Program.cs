@@ -6,7 +6,16 @@ namespace Test
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello git!");
+            
+        }
+    }
+
+    class Calc 
+    {
+        public static void Add (int x, int y) 
+        {
+            int z = x+y;
+            Console.WriteLine($"Summ {x}+{y}={z}");
         }
     }
 }
